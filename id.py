@@ -1,0 +1,1 @@
+print('Hi im salman khan an aspiring ml engineer and this is my first time learning git')
