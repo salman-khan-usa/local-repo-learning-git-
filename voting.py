@@ -1,4 +1,4 @@
-age = int('Enter your age: ')
+age = int(input('Enter your age: '))
 
 if age >= 18:
     print('Your Allowed to vote bro...')
@@ -10,3 +10,5 @@ else:
     print('You cant vote')    
 
 print('Goodbye..this is 2branch..')    
+
+
